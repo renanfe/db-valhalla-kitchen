@@ -1,0 +1,4 @@
+AWS-Commands.yml
+.terraform/*
+.terraform*
+terraform*
